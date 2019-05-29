@@ -737,6 +737,7 @@ Components and native modules.
 
 ### Utils & Infra
 
+* [Dynamico ★32](https://github.com/Soluto/dynamico/) - code push work-flow for continuous delivery of specific features native or web
 * [detox ★3566](https://github.com/wix/detox) - Graybox End-to-End (functional) Tests and Automation Library for Mobile with first class support for React Native
 * [react-native-workers ★616](https://github.com/devfd/react-native-workers) - Background services and web workers for react-native
 * [react-native-mock ★504](https://github.com/RealOrangeOne/react-native-mock) - A fully mocked and test-friendly version of react native
